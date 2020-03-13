@@ -4,3 +4,4 @@ seaborn
 pandas
 plotly
 folium
+pandas_profiling
